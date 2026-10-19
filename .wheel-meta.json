@@ -1,0 +1,22 @@
+{
+  "wheel_id": 453,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-150",
+  "project": "retaining-walls-gold-coast-5afcc675049af0cb16bf43d0e0fe648ab611",
+  "parent_t1_ref": "retainingwallgoldcoast-006",
+  "node_role": "buffer",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining walls gold coast",
+  "intended_url": "https://sitesau.github.io/retainingwallgoldcoast-150/",
+  "tier": "T2",
+  "writeback_nonce": "511a6642c69b2374",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-walls-gold-coast-006/",
+      "anchor": "a guide to retaining walls gold coast",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
